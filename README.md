@@ -1,7 +1,5 @@
 # Тестовое
 
-- - - - -
-
 ### 1. HTML&CSS
 Необходимые материалы в папке [Level1_Html&css](https://github.com/DmitryIvanov92/formula-fe-test/tree/master/Level2_Javascript).
 
