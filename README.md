@@ -1,5 +1,4 @@
 # Тестовое
-https://github.com/DmitryIvanov92/formula-fe-test
 
 - - - - -
 
